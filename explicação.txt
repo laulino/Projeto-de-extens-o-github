@@ -1,0 +1,24 @@
+﻿PROJETO DE EXTENSÃO DEV+GIT
+
+
+Lauane Gabrielly Putinato Lino    RA:26011565-2         Engenharia de software-Noturno
+Taciana Miranda Machado           RA:26008855-2         Engenharia de software-Noturno
+Adrian Gustavo de Lima               RA:26010255-2        ADS-Noturno
+
+
+*ATIVIDADE 1: Diferença entre Repositório Local e Repositório em Nuvem
+
+
+Lauane: 
+       O Repositório Local fica armazenado apenas no seu computador. Um arquivo privado onde somente um usuário tem acesso às alterações feitas no código, porém, se de alguma forma o que foi escrito for perdido não terá como recuperar.
+     Já o Repositório em Nuvem fica armazenado na internet, funcionando como um cofre. Se algo acontecer com o seu computador, como por exemplo um roubo ou defeito, o código estará salvo online. Este repositório permite que outras pessoas consigam acessar os projetos.
+
+
+Taciana:
+      O repositório local fica salvo no seu computador, e só você tem acesso às mudanças. Se acontecer algum problema, como perda de arquivos ou defeito, pode não dar pra recuperar. 
+      Já o repositório em nuvem fica salvo na internet, como um backup. Mesmo se der algo no seu computador, o código continua lá. Além disso, outras pessoas podem acessar e colaborar no projeto.
+
+
+Adrian:
+      O repositório local e o repositório em nuvem têm funções importantes e se complementam no desenvolvimento de projetos. O repositório local fica armazenado no computador do usuário, sendo utilizado para realizar alterações de forma privada e rápida. Porém, ele depende da integridade da máquina, podendo haver perda de dados em caso de falhas. 
+     Já o repositório em nuvem funciona como uma forma de segurança e compartilhamento, pois mantém o código salvo na internet, permitindo recuperação em caso de problemas no dispositivo e facilitando a colaboração entre várias pessoas no mesmo projeto.
